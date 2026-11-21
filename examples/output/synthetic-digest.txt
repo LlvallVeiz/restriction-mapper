@@ -1,0 +1,10 @@
+Digest of pSYN3200 (3200 bp, circular) with EcoRI + BamHI
+  EcoRI: 1 site(s)
+  BamHI: 1 site(s)
+Cut positions (bases left of cut): [101 201]
+Fragments (2):
+  #    Start   End     Length
+  ----  ------  ------  ------
+  1     102     201     100 bp
+  2     202     101     3100 bp
+Total: 3200 bp (check: 3200 bp)

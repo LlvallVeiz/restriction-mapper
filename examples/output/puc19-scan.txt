@@ -1,0 +1,68 @@
+== pUC19 (2686 bp, GC 50.63%, circular) ==
+pUC19: 2686 bp, 27 sites from 18 enzymes, 14 enzymes do not cut
+  Pos   Enzyme  Strand  Site      TopCut  BotCut
+  ----- ------- ------- --------- ------- -------
+  183   NdeI    +       CA/TATG   184     186    
+  306   PvuII   +       CAG/CTG   308     308    
+  396   EcoRI   +       G/AATTC   396     400    
+  400   TaqI    +       T/CGA     400     402    
+  402   SacI    +       GAGCT/C   406     402    
+  408   KpnI    +       GGTAC/C   412     408    
+  412   AvaI    +       C/YCGRG   412     416    
+  412   SmaI    +       CCC/GGG   414     414    
+  412   XmaI    +       C/CCGGG   412     416    
+  417   BamHI   +       G/GATCC   417     421    
+  423   XbaI    +       T/CTAGA   423     427    
+  427   HinfI   +       G/ANTC    427     430    
+  429   AccI    +       GT/MKAC   430     432    
+  429   SalI    +       G/TCGAC   429     433    
+  430   TaqI    +       T/CGA     430     432    
+  435   PstI    +       CTGCA/G   439     435    
+  441   SphI    +       GCATG/C   445     441    
+  447   HindIII +       A/AGCTT   447     451    
+  628   PvuII   +       CAG/CTG   630     630    
+  641   HinfI   +       G/ANTC    641     644    
+  706   HinfI   +       G/ANTC    706     709    
+  781   HinfI   +       G/ANTC    781     784    
+  906   TaqI    +       T/CGA     906     908    
+  1177  HinfI   +       G/ANTC    1177    1180   
+  1694  HinfI   +       G/ANTC    1694    1697   
+  2177  ScaI    +       AGT/ACT   2179    2179   
+  2350  TaqI    +       T/CGA     2350    2352   
+Statistics (observed vs expected in random DNA):
+  Enzyme  Sites  Expected  Overhang   Site
+  ------- ------ --------- ---------- ---------
+  HinfI   6      10.49     5' 3 nt    G/ANTC
+  TaqI    4      10.49     5' 2 nt    T/CGA
+  PvuII   2      0.66      blunt      CAG/CTG
+  AccI    1      2.62      5' 2 nt    GT/MKAC
+  AvaI    1      2.62      5' 4 nt    C/YCGRG
+  BamHI   1      0.66      5' 4 nt    G/GATCC
+  EcoRI   1      0.66      5' 4 nt    G/AATTC
+  HindIII 1      0.66      5' 4 nt    A/AGCTT
+  KpnI    1      0.66      3' 4 nt    GGTAC/C
+  NdeI    1      0.66      5' 2 nt    CA/TATG
+  PstI    1      0.66      3' 4 nt    CTGCA/G
+  SacI    1      0.66      3' 4 nt    GAGCT/C
+  SalI    1      0.66      5' 4 nt    G/TCGAC
+  ScaI    1      0.66      blunt      AGT/ACT
+  SmaI    1      0.66      blunt      CCC/GGG
+  SphI    1      0.66      3' 4 nt    GCATG/C
+  XbaI    1      0.66      5' 4 nt    T/CTAGA
+  XmaI    1      0.66      5' 4 nt    C/CCGGG
+  AflII   0      0.66      5' 4 nt    C/TTAAG
+  AgeI    0      0.66      5' 4 nt    A/CCGGT
+  ApaI    0      0.66      3' 4 nt    GGGCC/C
+  BglII   0      0.66      5' 4 nt    A/GATCT
+  ClaI    0      0.66      5' 2 nt    AT/CGAT
+  EcoRV   0      0.66      blunt      GAT/ATC
+  HpaI    0      0.66      blunt      GTT/AAC
+  MluI    0      0.66      5' 4 nt    A/CGCGT
+  NcoI    0      0.66      5' 4 nt    C/CATGG
+  NheI    0      0.66      5' 4 nt    G/CTAGC
+  NotI    0      0.04      5' 4 nt    GC/GGCCGC
+  SpeI    0      0.66      5' 4 nt    A/CTAGT
+  StuI    0      0.66      blunt      AGG/CCT
+  XhoI    0      0.66      5' 4 nt    C/TCGAG
+Non-cutters (14): AflII, AgeI, ApaI, BglII, ClaI, EcoRV, HpaI, MluI, NcoI, NheI, NotI, SpeI, StuI, XhoI
+

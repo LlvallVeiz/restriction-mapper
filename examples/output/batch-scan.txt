@@ -1,0 +1,129 @@
+== frag-a (24 bp, GC 41.67%, linear) ==
+frag-a: 24 bp, 2 sites from 2 enzymes, 30 enzymes do not cut
+  Pos   Enzyme  Strand  Site      TopCut  BotCut
+  ----- ------- ------- --------- ------- -------
+  5     EcoRI   +       G/AATTC   5       9      
+  15    BamHI   +       G/GATCC   15      19     
+Statistics (observed vs expected in random DNA):
+  Enzyme  Sites  Expected  Overhang   Site
+  ------- ------ --------- ---------- ---------
+  BamHI   1      0.01      5' 4 nt    G/GATCC
+  EcoRI   1      0.01      5' 4 nt    G/AATTC
+  AccI    0      0.02      5' 2 nt    GT/MKAC
+  AflII   0      0.01      5' 4 nt    C/TTAAG
+  AgeI    0      0.01      5' 4 nt    A/CCGGT
+  ApaI    0      0.01      3' 4 nt    GGGCC/C
+  AvaI    0      0.02      5' 4 nt    C/YCGRG
+  BglII   0      0.01      5' 4 nt    A/GATCT
+  ClaI    0      0.01      5' 2 nt    AT/CGAT
+  EcoRV   0      0.01      blunt      GAT/ATC
+  HindIII 0      0.01      5' 4 nt    A/AGCTT
+  HinfI   0      0.09      5' 3 nt    G/ANTC
+  HpaI    0      0.01      blunt      GTT/AAC
+  KpnI    0      0.01      3' 4 nt    GGTAC/C
+  MluI    0      0.01      5' 4 nt    A/CGCGT
+  NcoI    0      0.01      5' 4 nt    C/CATGG
+  NdeI    0      0.01      5' 2 nt    CA/TATG
+  NheI    0      0.01      5' 4 nt    G/CTAGC
+  NotI    0      0.00      5' 4 nt    GC/GGCCGC
+  PstI    0      0.01      3' 4 nt    CTGCA/G
+  PvuII   0      0.01      blunt      CAG/CTG
+  SacI    0      0.01      3' 4 nt    GAGCT/C
+  SalI    0      0.01      5' 4 nt    G/TCGAC
+  ScaI    0      0.01      blunt      AGT/ACT
+  SmaI    0      0.01      blunt      CCC/GGG
+  SpeI    0      0.01      5' 4 nt    A/CTAGT
+  SphI    0      0.01      3' 4 nt    GCATG/C
+  StuI    0      0.01      blunt      AGG/CCT
+  TaqI    0      0.09      5' 2 nt    T/CGA
+  XbaI    0      0.01      5' 4 nt    T/CTAGA
+  XhoI    0      0.01      5' 4 nt    C/TCGAG
+  XmaI    0      0.01      5' 4 nt    C/CCGGG
+Non-cutters (30): AccI, AflII, AgeI, ApaI, AvaI, BglII, ClaI, EcoRV, HindIII, HinfI, HpaI, KpnI, MluI, NcoI, NdeI, NheI, NotI, PstI, PvuII, SacI, SalI, ScaI, SmaI, SpeI, SphI, StuI, TaqI, XbaI, XhoI, XmaI
+
+== frag-b (18 bp, GC 55.56%, linear) ==
+frag-b: 18 bp, 3 sites from 2 enzymes, 30 enzymes do not cut
+  Pos   Enzyme  Strand  Site      TopCut  BotCut
+  ----- ------- ------- --------- ------- -------
+  1     BamHI   +       G/GATCC   1       5      
+  7     EcoRI   +       G/AATTC   7       11     
+  13    BamHI   +       G/GATCC   13      17     
+Statistics (observed vs expected in random DNA):
+  Enzyme  Sites  Expected  Overhang   Site
+  ------- ------ --------- ---------- ---------
+  BamHI   2      0.00      5' 4 nt    G/GATCC
+  EcoRI   1      0.00      5' 4 nt    G/AATTC
+  AccI    0      0.02      5' 2 nt    GT/MKAC
+  AflII   0      0.00      5' 4 nt    C/TTAAG
+  AgeI    0      0.00      5' 4 nt    A/CCGGT
+  ApaI    0      0.00      3' 4 nt    GGGCC/C
+  AvaI    0      0.02      5' 4 nt    C/YCGRG
+  BglII   0      0.00      5' 4 nt    A/GATCT
+  ClaI    0      0.00      5' 2 nt    AT/CGAT
+  EcoRV   0      0.00      blunt      GAT/ATC
+  HindIII 0      0.00      5' 4 nt    A/AGCTT
+  HinfI   0      0.07      5' 3 nt    G/ANTC
+  HpaI    0      0.00      blunt      GTT/AAC
+  KpnI    0      0.00      3' 4 nt    GGTAC/C
+  MluI    0      0.00      5' 4 nt    A/CGCGT
+  NcoI    0      0.00      5' 4 nt    C/CATGG
+  NdeI    0      0.00      5' 2 nt    CA/TATG
+  NheI    0      0.00      5' 4 nt    G/CTAGC
+  NotI    0      0.00      5' 4 nt    GC/GGCCGC
+  PstI    0      0.00      3' 4 nt    CTGCA/G
+  PvuII   0      0.00      blunt      CAG/CTG
+  SacI    0      0.00      3' 4 nt    GAGCT/C
+  SalI    0      0.00      5' 4 nt    G/TCGAC
+  ScaI    0      0.00      blunt      AGT/ACT
+  SmaI    0      0.00      blunt      CCC/GGG
+  SpeI    0      0.00      5' 4 nt    A/CTAGT
+  SphI    0      0.00      3' 4 nt    GCATG/C
+  StuI    0      0.00      blunt      AGG/CCT
+  TaqI    0      0.07      5' 2 nt    T/CGA
+  XbaI    0      0.00      5' 4 nt    T/CTAGA
+  XhoI    0      0.00      5' 4 nt    C/TCGAG
+  XmaI    0      0.00      5' 4 nt    C/CCGGG
+Non-cutters (30): AccI, AflII, AgeI, ApaI, AvaI, BglII, ClaI, EcoRV, HindIII, HinfI, HpaI, KpnI, MluI, NcoI, NdeI, NheI, NotI, PstI, PvuII, SacI, SalI, ScaI, SmaI, SpeI, SphI, StuI, TaqI, XbaI, XhoI, XmaI
+
+== frag-c (12 bp, GC 50.00%, linear) ==
+frag-c: 12 bp, 0 sites from 0 enzymes, 32 enzymes do not cut
+  Pos   Enzyme  Strand  Site      TopCut  BotCut
+  ----- ------- ------- --------- ------- -------
+  (no sites found)
+Statistics (observed vs expected in random DNA):
+  Enzyme  Sites  Expected  Overhang   Site
+  ------- ------ --------- ---------- ---------
+  AccI    0      0.01      5' 2 nt    GT/MKAC
+  AflII   0      0.00      5' 4 nt    C/TTAAG
+  AgeI    0      0.00      5' 4 nt    A/CCGGT
+  ApaI    0      0.00      3' 4 nt    GGGCC/C
+  AvaI    0      0.01      5' 4 nt    C/YCGRG
+  BamHI   0      0.00      5' 4 nt    G/GATCC
+  BglII   0      0.00      5' 4 nt    A/GATCT
+  ClaI    0      0.00      5' 2 nt    AT/CGAT
+  EcoRI   0      0.00      5' 4 nt    G/AATTC
+  EcoRV   0      0.00      blunt      GAT/ATC
+  HindIII 0      0.00      5' 4 nt    A/AGCTT
+  HinfI   0      0.05      5' 3 nt    G/ANTC
+  HpaI    0      0.00      blunt      GTT/AAC
+  KpnI    0      0.00      3' 4 nt    GGTAC/C
+  MluI    0      0.00      5' 4 nt    A/CGCGT
+  NcoI    0      0.00      5' 4 nt    C/CATGG
+  NdeI    0      0.00      5' 2 nt    CA/TATG
+  NheI    0      0.00      5' 4 nt    G/CTAGC
+  NotI    0      0.00      5' 4 nt    GC/GGCCGC
+  PstI    0      0.00      3' 4 nt    CTGCA/G
+  PvuII   0      0.00      blunt      CAG/CTG
+  SacI    0      0.00      3' 4 nt    GAGCT/C
+  SalI    0      0.00      5' 4 nt    G/TCGAC
+  ScaI    0      0.00      blunt      AGT/ACT
+  SmaI    0      0.00      blunt      CCC/GGG
+  SpeI    0      0.00      5' 4 nt    A/CTAGT
+  SphI    0      0.00      3' 4 nt    GCATG/C
+  StuI    0      0.00      blunt      AGG/CCT
+  TaqI    0      0.05      5' 2 nt    T/CGA
+  XbaI    0      0.00      5' 4 nt    T/CTAGA
+  XhoI    0      0.00      5' 4 nt    C/TCGAG
+  XmaI    0      0.00      5' 4 nt    C/CCGGG
+Non-cutters (32): AccI, AflII, AgeI, ApaI, AvaI, BamHI, BglII, ClaI, EcoRI, EcoRV, HindIII, HinfI, HpaI, KpnI, MluI, NcoI, NdeI, NheI, NotI, PstI, PvuII, SacI, SalI, ScaI, SmaI, SpeI, SphI, StuI, TaqI, XbaI, XhoI, XmaI
+

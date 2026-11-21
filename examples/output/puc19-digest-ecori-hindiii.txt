@@ -1,0 +1,10 @@
+Digest of pUC19 (2686 bp, circular) with EcoRI + HindIII
+  EcoRI: 1 site(s)
+  HindIII: 1 site(s)
+Cut positions (bases left of cut): [396 447]
+Fragments (2):
+  #    Start   End     Length
+  ----  ------  ------  ------
+  1     397     447     51 bp
+  2     448     396     2635 bp
+Total: 2686 bp (check: 2686 bp)

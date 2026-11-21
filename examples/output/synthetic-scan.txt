@@ -1,0 +1,132 @@
+== pSYN3200 (3200 bp, GC 50.81%, circular) ==
+pSYN3200: 3200 bp, 91 sites from 30 enzymes, 2 enzymes do not cut
+  Pos   Enzyme  Strand  Site      TopCut  BotCut
+  ----- ------- ------- --------- ------- -------
+  73    TaqI    +       T/CGA     73      75     
+  101   EcoRI   +       G/AATTC   101     105    
+  134   AflII   +       C/TTAAG   134     138    
+  139   AccI    +       GT/MKAC   140     142    
+  201   BamHI   +       G/GATCC   201     205    
+  213   XbaI    +       T/CTAGA   213     217    
+  239   AccI    +       GT/MKAC   240     242    
+  239   SalI    +       G/TCGAC   239     243    
+  240   TaqI    +       T/CGA     240     242    
+  301   HindIII +       A/AGCTT   301     305    
+  307   BglII   +       A/GATCT   307     311    
+  348   AccI    +       GT/MKAC   349     351    
+  348   SalI    +       G/TCGAC   348     352    
+  349   TaqI    +       T/CGA     349     351    
+  401   XbaI    +       T/CTAGA   401     405    
+  501   AccI    +       GT/MKAC   502     504    
+  501   SalI    +       G/TCGAC   501     505    
+  502   TaqI    +       T/CGA     502     504    
+  549   ApaI    +       GGGCC/C   553     549    
+  601   PstI    +       CTGCA/G   605     601    
+  697   AvaI    +       C/YCGRG   697     701    
+  701   KpnI    +       GGTAC/C   705     701    
+  728   TaqI    +       T/CGA     728     730    
+  801   SacI    +       GAGCT/C   805     801    
+  874   SphI    +       GCATG/C   878     874    
+  901   AvaI    +       C/YCGRG   901     905    
+  901   SmaI    +       CCC/GGG   903     903    
+  901   XmaI    +       C/CCGGG   901     905    
+  987   HinfI   +       G/ANTC    987     990    
+  1001  NcoI    +       C/CATGG   1001    1005   
+  1101  AvaI    +       C/YCGRG   1101    1105   
+  1101  XhoI    +       C/TCGAG   1101    1105   
+  1102  TaqI    +       T/CGA     1102    1104   
+  1185  HinfI   +       G/ANTC    1185    1188   
+  1201  SpeI    +       A/CTAGT   1201    1205   
+  1215  HinfI   +       G/ANTC    1215    1218   
+  1235  HindIII +       A/AGCTT   1235    1239   
+  1301  BglII   +       A/GATCT   1301    1305   
+  1401  ClaI    +       AT/CGAT   1402    1404   
+  1402  TaqI    +       T/CGA     1402    1404   
+  1442  HinfI   +       G/ANTC    1442    1445   
+  1449  TaqI    +       T/CGA     1449    1451   
+  1467  SphI    +       GCATG/C   1471    1467   
+  1472  AvaI    +       C/YCGRG   1472    1476   
+  1475  HinfI   +       G/ANTC    1475    1478   
+  1501  EcoRV   +       GAT/ATC   1503    1503   
+  1601  NdeI    +       CA/TATG   1602    1604   
+  1645  HinfI   +       G/ANTC    1645    1648   
+  1660  TaqI    +       T/CGA     1660    1662   
+  1665  BglII   +       A/GATCT   1665    1669   
+  1701  SphI    +       GCATG/C   1705    1701   
+  1713  TaqI    +       T/CGA     1713    1715   
+  1723  HinfI   +       G/ANTC    1723    1726   
+  1770  HinfI   +       G/ANTC    1770    1773   
+  1801  ApaI    +       GGGCC/C   1805    1801   
+  1901  NheI    +       G/CTAGC   1901    1905   
+  1982  PvuII   +       CAG/CTG   1984    1984   
+  2001  MluI    +       A/CGCGT   2001    2005   
+  2013  HinfI   +       G/ANTC    2013    2016   
+  2023  SacI    +       GAGCT/C   2027    2023   
+  2027  TaqI    +       T/CGA     2027    2029   
+  2040  EcoRV   +       GAT/ATC   2042    2042   
+  2043  ClaI    +       AT/CGAT   2044    2046   
+  2044  TaqI    +       T/CGA     2044    2046   
+  2101  PvuII   +       CAG/CTG   2103    2103   
+  2175  HinfI   +       G/ANTC    2175    2178   
+  2201  StuI    +       AGG/CCT   2203    2203   
+  2277  ScaI    +       AGT/ACT   2279    2279   
+  2301  ScaI    +       AGT/ACT   2303    2303   
+  2345  HinfI   +       G/ANTC    2345    2348   
+  2359  SpeI    +       A/CTAGT   2359    2363   
+  2401  AvaI    +       C/YCGRG   2401    2405   
+  2401  SmaI    +       CCC/GGG   2403    2403   
+  2401  XmaI    +       C/CCGGG   2401    2405   
+  2495  HinfI   +       G/ANTC    2495    2498   
+  2501  AflII   +       C/TTAAG   2501    2505   
+  2571  TaqI    +       T/CGA     2571    2573   
+  2601  AgeI    +       A/CCGGT   2601    2605   
+  2701  TaqI    +       T/CGA     2701    2703   
+  2704  StuI    +       AGG/CCT   2706    2706   
+  2767  HinfI   +       G/ANTC    2767    2770   
+  2793  AvaI    +       C/YCGRG   2793    2797   
+  2793  XhoI    +       C/TCGAG   2793    2797   
+  2794  TaqI    +       T/CGA     2794    2796   
+  2801  HinfI   +       G/ANTC    2801    2804   
+  2807  NdeI    +       CA/TATG   2808    2810   
+  2901  AccI    +       GT/MKAC   2902    2904   
+  2963  PvuII   +       CAG/CTG   2965    2965   
+  2966  PstI    +       CTGCA/G   2970    2966   
+  3055  SpeI    +       A/CTAGT   3055    3059   
+  3063  HinfI   +       G/ANTC    3063    3066   
+Statistics (observed vs expected in random DNA):
+  Enzyme  Sites  Expected  Overhang   Site
+  ------- ------ --------- ---------- ---------
+  HinfI   15     12.50     5' 3 nt    G/ANTC
+  TaqI    15     12.50     5' 2 nt    T/CGA
+  AvaI    6      3.12      5' 4 nt    C/YCGRG
+  AccI    5      3.12      5' 2 nt    GT/MKAC
+  BglII   3      0.78      5' 4 nt    A/GATCT
+  PvuII   3      0.78      blunt      CAG/CTG
+  SalI    3      0.78      5' 4 nt    G/TCGAC
+  SpeI    3      0.78      5' 4 nt    A/CTAGT
+  SphI    3      0.78      3' 4 nt    GCATG/C
+  AflII   2      0.78      5' 4 nt    C/TTAAG
+  ApaI    2      0.78      3' 4 nt    GGGCC/C
+  ClaI    2      0.78      5' 2 nt    AT/CGAT
+  EcoRV   2      0.78      blunt      GAT/ATC
+  HindIII 2      0.78      5' 4 nt    A/AGCTT
+  NdeI    2      0.78      5' 2 nt    CA/TATG
+  PstI    2      0.78      3' 4 nt    CTGCA/G
+  SacI    2      0.78      3' 4 nt    GAGCT/C
+  ScaI    2      0.78      blunt      AGT/ACT
+  SmaI    2      0.78      blunt      CCC/GGG
+  StuI    2      0.78      blunt      AGG/CCT
+  XbaI    2      0.78      5' 4 nt    T/CTAGA
+  XhoI    2      0.78      5' 4 nt    C/TCGAG
+  XmaI    2      0.78      5' 4 nt    C/CCGGG
+  AgeI    1      0.78      5' 4 nt    A/CCGGT
+  BamHI   1      0.78      5' 4 nt    G/GATCC
+  EcoRI   1      0.78      5' 4 nt    G/AATTC
+  KpnI    1      0.78      3' 4 nt    GGTAC/C
+  MluI    1      0.78      5' 4 nt    A/CGCGT
+  NcoI    1      0.78      5' 4 nt    C/CATGG
+  NheI    1      0.78      5' 4 nt    G/CTAGC
+  HpaI    0      0.78      blunt      GTT/AAC
+  NotI    0      0.05      5' 4 nt    GC/GGCCGC
+Non-cutters (2): HpaI, NotI
+

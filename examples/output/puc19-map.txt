@@ -1,0 +1,22 @@
+== Restriction map: pUC19 (2686 bp, circular) ==
+  +--------+---------+---------+---------+---------+---------+---------+---------+---------+---------+
+  1                                                                                               2686 bp
+  AccI                   |                                                                                     (1)
+  AvaI                   |                                                                                     (1)
+  BamHI                  |                                                                                     (1)
+  EcoRI                 |                                                                                      (1)
+  HindIII                 |                                                                                    (1)
+  HinfI                  |       | |  |              |                  |                                      (6)
+  KpnI                   |                                                                                     (1)
+  NdeI          |                                                                                              (1)
+  PstI                   |                                                                                     (1)
+  PvuII              |           |                                                                             (2)
+  SacI                  |                                                                                      (1)
+  SalI                   |                                                                                     (1)
+  ScaI                                                                                    |                    (1)
+  SmaI                   |                                                                                     (1)
+  SphI                    |                                                                                    (1)
+  TaqI                  ||                 |                                                    |              (4)
+  XbaI                   |                                                                                     (1)
+  XmaI                   |                                                                                     (1)
+

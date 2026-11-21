@@ -1,0 +1,215 @@
+[
+  {
+    "record": "pUC19",
+    "length_bp": 2686,
+    "gc_percent": 50.63291139240506,
+    "circular": true,
+    "sites": [
+      {
+        "Enzyme": "NdeI",
+        "Start": 183,
+        "Strand": "+",
+        "CutTop": 184,
+        "CutBottom": 186
+      },
+      {
+        "Enzyme": "PvuII",
+        "Start": 306,
+        "Strand": "+",
+        "CutTop": 308,
+        "CutBottom": 308
+      },
+      {
+        "Enzyme": "EcoRI",
+        "Start": 396,
+        "Strand": "+",
+        "CutTop": 396,
+        "CutBottom": 400
+      },
+      {
+        "Enzyme": "TaqI",
+        "Start": 400,
+        "Strand": "+",
+        "CutTop": 400,
+        "CutBottom": 402
+      },
+      {
+        "Enzyme": "SacI",
+        "Start": 402,
+        "Strand": "+",
+        "CutTop": 406,
+        "CutBottom": 402
+      },
+      {
+        "Enzyme": "KpnI",
+        "Start": 408,
+        "Strand": "+",
+        "CutTop": 412,
+        "CutBottom": 408
+      },
+      {
+        "Enzyme": "AvaI",
+        "Start": 412,
+        "Strand": "+",
+        "CutTop": 412,
+        "CutBottom": 416
+      },
+      {
+        "Enzyme": "SmaI",
+        "Start": 412,
+        "Strand": "+",
+        "CutTop": 414,
+        "CutBottom": 414
+      },
+      {
+        "Enzyme": "XmaI",
+        "Start": 412,
+        "Strand": "+",
+        "CutTop": 412,
+        "CutBottom": 416
+      },
+      {
+        "Enzyme": "BamHI",
+        "Start": 417,
+        "Strand": "+",
+        "CutTop": 417,
+        "CutBottom": 421
+      },
+      {
+        "Enzyme": "XbaI",
+        "Start": 423,
+        "Strand": "+",
+        "CutTop": 423,
+        "CutBottom": 427
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 427,
+        "Strand": "+",
+        "CutTop": 427,
+        "CutBottom": 430
+      },
+      {
+        "Enzyme": "AccI",
+        "Start": 429,
+        "Strand": "+",
+        "CutTop": 430,
+        "CutBottom": 432
+      },
+      {
+        "Enzyme": "SalI",
+        "Start": 429,
+        "Strand": "+",
+        "CutTop": 429,
+        "CutBottom": 433
+      },
+      {
+        "Enzyme": "TaqI",
+        "Start": 430,
+        "Strand": "+",
+        "CutTop": 430,
+        "CutBottom": 432
+      },
+      {
+        "Enzyme": "PstI",
+        "Start": 435,
+        "Strand": "+",
+        "CutTop": 439,
+        "CutBottom": 435
+      },
+      {
+        "Enzyme": "SphI",
+        "Start": 441,
+        "Strand": "+",
+        "CutTop": 445,
+        "CutBottom": 441
+      },
+      {
+        "Enzyme": "HindIII",
+        "Start": 447,
+        "Strand": "+",
+        "CutTop": 447,
+        "CutBottom": 451
+      },
+      {
+        "Enzyme": "PvuII",
+        "Start": 628,
+        "Strand": "+",
+        "CutTop": 630,
+        "CutBottom": 630
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 641,
+        "Strand": "+",
+        "CutTop": 641,
+        "CutBottom": 644
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 706,
+        "Strand": "+",
+        "CutTop": 706,
+        "CutBottom": 709
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 781,
+        "Strand": "+",
+        "CutTop": 781,
+        "CutBottom": 784
+      },
+      {
+        "Enzyme": "TaqI",
+        "Start": 906,
+        "Strand": "+",
+        "CutTop": 906,
+        "CutBottom": 908
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 1177,
+        "Strand": "+",
+        "CutTop": 1177,
+        "CutBottom": 1180
+      },
+      {
+        "Enzyme": "HinfI",
+        "Start": 1694,
+        "Strand": "+",
+        "CutTop": 1694,
+        "CutBottom": 1697
+      },
+      {
+        "Enzyme": "ScaI",
+        "Start": 2177,
+        "Strand": "+",
+        "CutTop": 2179,
+        "CutBottom": 2179
+      },
+      {
+        "Enzyme": "TaqI",
+        "Start": 2350,
+        "Strand": "+",
+        "CutTop": 2350,
+        "CutBottom": 2352
+      }
+    ],
+    "non_cutters": [
+      "AflII",
+      "AgeI",
+      "ApaI",
+      "BglII",
+      "ClaI",
+      "EcoRV",
+      "HpaI",
+      "MluI",
+      "NcoI",
+      "NheI",
+      "NotI",
+      "SpeI",
+      "StuI",
+      "XhoI"
+    ]
+  }
+]

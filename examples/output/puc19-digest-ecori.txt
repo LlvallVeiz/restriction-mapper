@@ -1,0 +1,8 @@
+Digest of pUC19 (2686 bp, circular) with EcoRI
+  EcoRI: 1 site(s)
+Cut positions (bases left of cut): [396]
+Fragments (1):
+  #    Start   End     Length
+  ----  ------  ------  ------
+  1     1       2686    2686 bp
+Total: 2686 bp (check: 2686 bp)

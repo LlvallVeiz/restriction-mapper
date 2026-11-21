@@ -1,0 +1,36 @@
+  Enzyme  Site      Length  Ends          Organism
+  ------- --------- ------- ------------- --------------------------------
+  AccI    GT/MKAC   6       5' 2 nt       Acinetobacter calcoaceticus
+  AflII   C/TTAAG   6       5' 4 nt       Anabaena flos-aquae
+  AgeI    A/CCGGT   6       5' 4 nt       Agrobacterium gelatinovorum
+  ApaI    GGGCC/C   6       3' 4 nt       Acetobacter pasteurianus
+  AvaI    C/YCGRG   6       5' 4 nt       Anabaena variabilis
+  BamHI   G/GATCC   6       5' 4 nt       Bacillus amyloliquefaciens H
+  BglII   A/GATCT   6       5' 4 nt       Bacillus globigii
+  ClaI    AT/CGAT   6       5' 2 nt       Caryophanon latum L
+  EcoRI   G/AATTC   6       5' 4 nt       Escherichia coli RY13
+  EcoRV   GAT/ATC   6       blunt         Escherichia coli J62 pLG74
+  HindIII A/AGCTT   6       5' 4 nt       Haemophilus influenzae Rd
+  HinfI   G/ANTC    5       5' 3 nt       Haemophilus influenzae Rf
+  HpaI    GTT/AAC   6       blunt         Haemophilus parainfluenzae
+  KpnI    GGTAC/C   6       3' 4 nt       Klebsiella pneumoniae OK8
+  MluI    A/CGCGT   6       5' 4 nt       Micrococcus luteus
+  NcoI    C/CATGG   6       5' 4 nt       Nocardia corallina
+  NdeI    CA/TATG   6       5' 2 nt       Neisseria denitrificans
+  NheI    G/CTAGC   6       5' 4 nt       Neisseria mucosa var. heidelbergensis
+  NotI    GC/GGCCGC 8       5' 4 nt       Nocardia otitidiscaviarum
+  PstI    CTGCA/G   6       3' 4 nt       Providencia stuartii
+  PvuII   CAG/CTG   6       blunt         Proteus vulgaris
+  SacI    GAGCT/C   6       3' 4 nt       Streptomyces achromogenes
+  SalI    G/TCGAC   6       5' 4 nt       Streptomyces albus G
+  ScaI    AGT/ACT   6       blunt         Streptomyces caespitosus
+  SmaI    CCC/GGG   6       blunt         Serratia marcescens Sb
+  SpeI    A/CTAGT   6       5' 4 nt       Sphaerotilus natans
+  SphI    GCATG/C   6       3' 4 nt       Streptomyces phaeochromogenes
+  StuI    AGG/CCT   6       blunt         Streptomyces tubercidicus
+  TaqI    T/CGA     4       5' 2 nt       Thermus aquaticus YT1
+  XbaI    T/CTAGA   6       5' 4 nt       Xanthomonas badrii
+  XhoI    C/TCGAG   6       5' 4 nt       Xanthomonas holcicola
+  XmaI    C/CCGGG   6       5' 4 nt       Xanthomonas malvacearum
+
+  32 enzymes. Sites and cut positions: NEB / REBASE.
