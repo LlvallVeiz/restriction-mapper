@@ -1,0 +1,14 @@
+# Binaries and build output
+/rmap
+*.exe
+
+# Go module cache / test cache artifacts (local only)
+*.test
+*.out
+
+# Editor and OS files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
